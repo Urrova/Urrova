@@ -24,5 +24,7 @@ Sometimes i play other genres but mainly i play those 2 genres.
 
 # Links:
 Pagina web | Webpage: [https://urrova.github.io/](https://urrova.github.io/)
+
 Doomworld: [https://www.doomworld.com/profile/29543-urrova/](https://www.doomworld.com/profile/29543-urrova/)
+
 Youtube: [https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
