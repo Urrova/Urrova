@@ -1,4 +1,4 @@
-# Welcome to my profile! | Bienvenido a mi perfil!
+# Bienvenido a mi perfil! | Welcome to mi profile!
 
 ![OC](/img/URROVA.png)
 
@@ -21,3 +21,8 @@ Sometimes i have A LOT of projects acumulated, so lot of times i take too much t
 About videogames, i like retro FPS (Doom, Quake, Half Life, etc) and bullethells (touhou, lenen, donpachi, etc)
 
 Sometimes i play other genres but mainly i play those 2 genres.
+
+# Links:
+Pagina web | Webpage: [https://urrova.github.io/](https://urrova.github.io/)
+Doomworld: [https://www.doomworld.com/profile/29543-urrova/](https://www.doomworld.com/profile/29543-urrova/)
+Youtube: [https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
