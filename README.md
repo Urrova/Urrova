@@ -1,7 +1,5 @@
 # Bienvenido a mi perfil! | Welcome to mi profile!
 
-![OC](/img/URROVA.png)
-
 ![Visit counter](https://hits.sh/github.com/Urrova.svg?label=page%20views&color=1695c2)
 
 # Español:
